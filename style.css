@@ -3,7 +3,8 @@ body{
         border-style: solid;
         border-color: rgb(182, 10, 10) ;
         border-width: 20px;
-        background-color: rgb(145, 140, 140);
+        height: 100%
+       
 }
 .logo{
     height: 4rem;
@@ -31,8 +32,8 @@ body{
     margin: 0;
     padding: 0;
     width: 200px;
-    background-color: black;
-    position: fixed;
+    background-color: rgb(66, 64, 64);
+    position: absolute;
     height: 100%;
     overflow: auto;
   }
@@ -119,6 +120,7 @@ body{
     margin-left: 199px;
     border:1px solid black; width:40%;height:282px;
     background-color: rgb(183, 182, 182);
+    
   }
   .order-list{
     margin-left: 210px;
